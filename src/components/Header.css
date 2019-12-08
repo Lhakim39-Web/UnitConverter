@@ -1,0 +1,14 @@
+header {
+  background-color: #c067de;
+  margin: 20px -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  text-align: center;
+  border-radius: 20px;
+}
+
+header h1 {
+  color: #fff;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  font-weight: 200;
+}
